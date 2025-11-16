@@ -87,6 +87,119 @@
 ![alt text](<images/Screenshot from 2025-11-13 02-42-52.png>)
 
 
+<h4>
+    Agora seguindo com o processo com DVWA
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 01-36-15.png>)
+
+
+<h4>
+    Abrindo o Developer Tools
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 01-38-07.png>)
 
 
 
+<h4>
+    Mostrando a falha quando tenta acessar com usuário admin e senha admin
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 01-39-40.png>)
+
+
+
+<h4>
+    Mostrando a mensagem "login failed" sendo mostrada logo abaixo do formulário de login
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 01-40-48.png>)
+
+
+
+<h4>
+    Utilizando Medusa com os arquivos de login e senha criados para descobrir o login e senha do DVWA
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 01-55-02.png>)
+
+
+
+<h4>
+    Resultado do Medusa com as credenciais que irão funcionar
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 02-03-27.png>)
+
+
+
+<h4>
+    Colocando login e senha
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 02-05-06.png>)
+
+
+
+<h4>
+    Mostrando o acesso bem sucedido
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 02-07-20.png>)
+
+
+
+<h4>
+    Utilizando o enum4linux
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 02-58-59.png>)
+
+
+
+<h4>
+    Mostrando os usuários descobertos no sistema
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 03-01-31.png>)
+
+
+
+<h4>
+    Criando os novos arquivos baseado nos usuários capturados do sistema
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 03-08-55.png>)
+
+
+
+<h4>
+    Mostrando o conteúdo dos arquivos
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 03-09-19.png>)
+
+
+
+<h4>
+    Utilizando o Medusa com os novos arquivos criados tentando acessar o Samba server
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 03-21-05.png>)
+
+
+
+<h4>
+    Mostrando o resultado das tentativas de acesso
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 03-22-28.png>)
+
+
+
+<h4>
+    E na última tela mostrando o acesso com o smbclient
+</h4>
+
+![alt text](<images/Screenshot from 2025-11-15 03-29-53.png>)
